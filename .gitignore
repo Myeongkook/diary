@@ -1,0 +1,10 @@
+/src/main/resources/application.yaml
+/target/
+/.gitignore
+/diary.iml
+/HELP.md
+/mvnw
+/mvnw.cmd
+/pom.xml
+/.idea/
+/.mvn/
